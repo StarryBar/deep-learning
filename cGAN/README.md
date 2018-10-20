@@ -2,9 +2,6 @@
 Collaborator: Lifan Wang , Runchen Hu, Shen Wang, 
 
 
-
-This repo is forked from 
-
 We have first achieved descent performace as described by the author, then modified the generator and discriminator as described in the report, to achieve a higher performance than the author.   And we did our experiments either on NYU HPC Prince Tesla-P100. The Cityscapes experiment took about 14 hours of training,
 
 
