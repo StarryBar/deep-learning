@@ -1,4 +1,4 @@
-## NYU CS-9223 Deep Learning Project.
+## NYU CS-9223 Deep Learning Project : A coarse to fine conditional GAN project.
 Collaborator: Lifan Wang , Runchen Hu, Shen Wang, 
 
 
@@ -12,9 +12,8 @@ All the material, including source code, is made freely available for non-commer
 
 
 ## Datasets
-We built our PG-GAN model from CelebA and CIFAR-10 dataset.   
-CIFAR-10: https://www.cs.toronto.edu/~kriz/cifar.html   
-CelebA: http://mmlab.ie.cuhk.edu.hk/projects/CelebA.html  
+We built our PG-GAN model from Cityscapes dataset.   
+Cityscapes
 
 
 ## Results
