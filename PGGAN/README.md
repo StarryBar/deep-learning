@@ -1,5 +1,5 @@
 ## NYU CS-9223 Deep Learning Project.
-Collaborator: Runchen Hu, Shen Wang, Lifan Wang  
+Collaborator: Lifan Wang, Runchen Hu, Shen Wang  
 
 
 
