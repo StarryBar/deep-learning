@@ -1,3 +1,26 @@
+## NYU CS-9223 Deep Learning Project.
+Collaborator: Lifan Wang , Runchen Hu, Shen Wang, 
+
+
+
+This repo is forked from 
+
+We have first achieved descent performace as described by the author, then modified the generator and discriminator as described in the report, to achieve a higher performance than the author.   And we did our experiments either on NYU HPC Prince Tesla-P100. The Cityscapes experiment took about 14 hours of training,
+
+
+All the material, including source code, is made freely available for non-commercial use under the Creative Commons [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/legalcode) license. Feel free to use any of the material in your own work, as long as you give us appropriate credit by mentioning the title and author list of our paper.
+
+
+## Datasets
+We built our PG-GAN model from CelebA and CIFAR-10 dataset.   
+CIFAR-10: https://www.cs.toronto.edu/~kriz/cifar.html   
+CelebA: http://mmlab.ie.cuhk.edu.hk/projects/CelebA.html  
+
+
+## Results
+The network would generate fake images during the training process, they are stored in /results directory.  
+
+====================================================================================================================================
 # pix2pix-tensorflow
 
 Based on [pix2pix](https://phillipi.github.io/pix2pix/) by Isola et al.
